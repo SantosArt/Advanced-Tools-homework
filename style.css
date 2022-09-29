@@ -4,6 +4,15 @@
     margin: 0 auto;
     text-align: center;
   }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
 }
 :root {
   --primary-color: #6c63ff;
